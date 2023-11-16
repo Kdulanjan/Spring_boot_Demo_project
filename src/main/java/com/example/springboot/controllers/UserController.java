@@ -3,7 +3,7 @@ package com.example.springboot.controllers;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping(value = "api/v/user")
+@RequestMapping(value = "api/v1/user")
 @CrossOrigin
 
 public class UserController {
